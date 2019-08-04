@@ -1,0 +1,13 @@
+C:\Users\DH\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csprojAssemblyReference.cache
+C:\Users\DH\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.Form1.resources
+C:\Users\DH\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.Properties.Resources.resources
+C:\Users\DH\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.GenerateResource.cache
+C:\Users\DH\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\DH\source\repos\Actividad1\Actividad1\bin\Debug\Actividad1.exe.config
+C:\Users\DH\source\repos\Actividad1\Actividad1\bin\Debug\Actividad1.exe
+C:\Users\DH\source\repos\Actividad1\Actividad1\bin\Debug\Actividad1.pdb
+C:\Users\DH\source\repos\Actividad1\Actividad1\bin\Debug\modelo.dll
+C:\Users\DH\source\repos\Actividad1\Actividad1\bin\Debug\modelo.pdb
+C:\Users\DH\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.CopyComplete
+C:\Users\DH\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.exe
+C:\Users\DH\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.pdb
