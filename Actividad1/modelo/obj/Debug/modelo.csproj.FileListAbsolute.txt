@@ -4,3 +4,15 @@ C:\Users\DH\source\repos\Actividad1\modelo\obj\Debug\modelo.csprojAssemblyRefere
 C:\Users\DH\source\repos\Actividad1\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
 C:\Users\DH\source\repos\Actividad1\modelo\obj\Debug\modelo.dll
 C:\Users\DH\source\repos\Actividad1\modelo\obj\Debug\modelo.pdb
+C:\Users\CASA\Desktop\IntegraEs2-master\Actividad1\modelo\obj\Debug\modelo.dll
+C:\Users\CASA\Desktop\IntegraEs2-master\Actividad1\modelo\obj\Debug\modelo.pdb
+C:\Users\CASA\Desktop\IntegraEs2-master\Actividad1\modelo\bin\Debug\modelo.dll
+C:\Users\CASA\Desktop\IntegraEs2-master\Actividad1\modelo\bin\Debug\modelo.pdb
+C:\Users\CASA\Desktop\IntegraEs2-master\Actividad1\modelo\obj\Debug\modelo.csprojAssemblyReference.cache
+C:\Users\CASA\Desktop\IntegraEs2-master\Actividad1\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
+C:\Users\1007012304\Desktop\IntegraEs2-master\Actividad1\modelo\bin\Debug\modelo.dll
+C:\Users\1007012304\Desktop\IntegraEs2-master\Actividad1\modelo\bin\Debug\modelo.pdb
+C:\Users\1007012304\Desktop\IntegraEs2-master\Actividad1\modelo\obj\Debug\modelo.csprojAssemblyReference.cache
+C:\Users\1007012304\Desktop\IntegraEs2-master\Actividad1\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
+C:\Users\1007012304\Desktop\IntegraEs2-master\Actividad1\modelo\obj\Debug\modelo.dll
+C:\Users\1007012304\Desktop\IntegraEs2-master\Actividad1\modelo\obj\Debug\modelo.pdb

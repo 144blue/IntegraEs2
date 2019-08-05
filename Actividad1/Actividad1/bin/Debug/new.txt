@@ -1,0 +1,2 @@
+Nombre,Cedula,Placa,codigo
+cam,cam,cam,cam

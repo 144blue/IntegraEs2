@@ -1,0 +1,3 @@
+Nombre,Cedula,Placa,codigo
+david huertas,23232323,dad33,sadddadad
+hjhjshjfhsjfh,sdfsdf,dfsdfsfs,fsfsf
